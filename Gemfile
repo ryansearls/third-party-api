@@ -34,5 +34,7 @@ group :development do
   gem 'listen', '~> 3.3'
 end
 
+gem 'http'
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
